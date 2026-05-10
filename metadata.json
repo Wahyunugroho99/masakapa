@@ -1,0 +1,13 @@
+{
+  "name": "MasakApa",
+  "description": "Asisten AI anti-boros makanan Indonesia. Ubah isi kulkasmu menjadi menu hemat, bergizi, dan praktis.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Recipe Generation",
+    "Nutrition Estimation",
+    "Food Waste Prevention",
+    "Smart Shopping List"
+  ]
+}
